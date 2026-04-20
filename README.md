@@ -10,3 +10,10 @@ Source: Kaggle Super Market Sales dataset
 - Python
 - pandas
 - matplotlib
+
+- What is the total revenue?
+Which 5 products generate the most revenue?
+Which month has the highest sales?
+Which region performs best?
+What is the average order value?
+Are sales increasing over time?
